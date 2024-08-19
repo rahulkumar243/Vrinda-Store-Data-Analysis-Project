@@ -38,6 +38,7 @@ Usage
 For Data Analysts:
 Use the provided Excel data and interactive dashboard to perform detailed analysis and derive insights.
 Leverage the filters and visualization tools in the dashboard to explore specific aspects of the data.
+
 For Business Users:
 Use the dashboard to monitor sales performance and customer trends.
 Make data-driven decisions by exploring the interactive features of the dashboard.
